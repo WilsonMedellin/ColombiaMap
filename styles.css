@@ -4,3 +4,7 @@
     left: 0%;
     height: 100%;
 }
+#credits {
+    position: absolute;
+    top: 100%;
+}
